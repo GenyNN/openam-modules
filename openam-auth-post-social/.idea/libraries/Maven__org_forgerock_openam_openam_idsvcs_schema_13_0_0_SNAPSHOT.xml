@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.forgerock.openam:openam-idsvcs-schema:13.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/forgerock/openam/openam-idsvcs-schema/13.0.0-SNAPSHOT/openam-idsvcs-schema-13.0.0-20160112.160558-879.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/forgerock/openam/openam-idsvcs-schema/13.0.0-SNAPSHOT/openam-idsvcs-schema-13.0.0-20160112.160558-879-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/forgerock/openam/openam-idsvcs-schema/13.0.0-SNAPSHOT/openam-idsvcs-schema-13.0.0-20160112.160558-879-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: external:jss4:2007-08-11">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/external/jss4/2007-08-11/jss4-2007-08-11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/external/jss4/2007-08-11/jss4-2007-08-11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/external/jss4/2007-08-11/jss4-2007-08-11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

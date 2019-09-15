@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.forgerock.openam:openam-annotations:13.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/forgerock/openam/openam-annotations/13.0.0-SNAPSHOT/openam-annotations-13.0.0-20160112.160558-894.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/forgerock/openam/openam-annotations/13.0.0-SNAPSHOT/openam-annotations-13.0.0-20160112.160558-894-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/forgerock/openam/openam-annotations/13.0.0-SNAPSHOT/openam-annotations-13.0.0-20160112.160558-894-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

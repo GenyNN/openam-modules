@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sun.xml.rpc:jaxrpc-spi:1.1.3_01">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/rpc/jaxrpc-spi/1.1.3_01/jaxrpc-spi-1.1.3_01.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/rpc/jaxrpc-spi/1.1.3_01/jaxrpc-spi-1.1.3_01-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/xml/rpc/jaxrpc-spi/1.1.3_01/jaxrpc-spi-1.1.3_01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

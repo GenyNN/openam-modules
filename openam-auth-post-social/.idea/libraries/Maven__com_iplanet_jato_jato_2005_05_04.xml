@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.iplanet.jato:jato:2005-05-04">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iplanet/jato/jato/2005-05-04/jato-2005-05-04.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iplanet/jato/jato/2005-05-04/jato-2005-05-04-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/iplanet/jato/jato/2005-05-04/jato-2005-05-04-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

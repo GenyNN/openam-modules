@@ -1,0 +1,33 @@
+Index: src/main/java/com/tallink/sso/openam/ClientMatcher.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/tallink/sso/openam/ClientMatcher.java	(revision 21:9228376e354f93bbecda83ee4bbd8ba7669cfa5c)
++++ src/main/java/com/tallink/sso/openam/ClientMatcher.java	(revision 21+:9228376e354f+)
+@@ -100,11 +100,15 @@
+ 
+         debug.message("ClientMatcher::process state: {}", state);
+ 
++        throw new AuthLoginException("Got no user ID");
++
++        /*
+         switch (state) {
+ 
+             case STATE_BEGIN:
+                 // No time wasted here - simply modify the UI and
+                 // proceed to next state
++
+                 substituteUIStrings();
+                 return STATE_AUTH;
+ 
+@@ -152,7 +156,8 @@
+                 return STATE_ERROR;
+             default:
+                 throw new AuthLoginException("invalid state");
+-        }
++
++        }*/
+     }
+ 
+     private void initSearchParams(Callback[] callbacks) {

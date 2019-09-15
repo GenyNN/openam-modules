@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.sleepycat:je:5.0.104">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sleepycat/je/5.0.104/je-5.0.104.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sleepycat/je/5.0.104/je-5.0.104-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sleepycat/je/5.0.104/je-5.0.104-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
